@@ -4,6 +4,12 @@ body{
     width:800px;
     padding:0 10px;
     background-color: darkgray;
+    background-image: url(fugazi.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
 }
 h1{
     color: black;
@@ -30,12 +36,13 @@ span{
 del{
     color:yellow;
 }
-blockquote{
-    text-align: center;
-    background-color: grey;
-    border:3px solid green;
-    width: 40%;
-    margin:0 auto;
-    color:white;
-    padding: 40px;
+
+.hero-container {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border:1px solid black;
+    padding:0 0;
+    margin:0 0;
 }
