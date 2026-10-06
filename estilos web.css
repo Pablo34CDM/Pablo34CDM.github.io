@@ -15,7 +15,7 @@ h1{
     color: black;
     font-size: 20px;
     background-color: cadetblue;
-    border:1px solid black;
+    border:1px solid white;
     padding:10px 40px;
     text-align:center;
     margin:10px;
@@ -45,4 +45,34 @@ del{
     border:1px solid cadetblue;
     padding: 10px;
     width: 800px;
+}
+li.enlaces{
+    display: inline-block;
+    width: 10%;
+    text-align: center;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding:3px 10px;
+    border: 1px solid white;
+    background-color: cadetblue;
+    font-size: 15px;
+
+}
+li.enlaces1{
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding:3px 0px;
+    border: 1px solid white;
+    background-color: cadetblue;
+    font-size: 15px;
+
+}
+a{
+    color: inherit;
+    text-decoration: none;
 }
