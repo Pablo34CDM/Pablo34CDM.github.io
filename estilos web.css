@@ -66,12 +66,12 @@ li.enlaces{
 }
 li.enlaces1{
     display: inline-block;
-    width: 40%;
+    width: auto;
     text-align: center;
     color: white;
     text-align: center;
     text-decoration: none;
-    padding:3px 0px;
+    padding:3px 5px;
     border: 1px solid white;
     background-color: cadetblue;
     font-size: 15px;
