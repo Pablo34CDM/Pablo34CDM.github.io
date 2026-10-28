@@ -1,0 +1,10 @@
+user-agent:*
+Allow:/
+Disallow:/privada
+
+user-agent:bingbot
+Allow:/
+
+user-agent:googlebot
+Allow:/
+Disallow: /Fotos
