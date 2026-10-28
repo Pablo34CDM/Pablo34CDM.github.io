@@ -1,3 +1,4 @@
 user-agent:*
 Allow:/
 Disallow:/Apuntes
+Sitemap: https://pablo34cdm.github.io/sitemap.xml
