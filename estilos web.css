@@ -17,7 +17,7 @@ h1{
     font-size: 20px;
     background-color: cadetblue;
     border:1px solid white;
-    padding:10px 40px;
+    padding:10px;
     text-align:center;
     margin:10px;
 }
@@ -97,4 +97,21 @@ li{
 .migas{
     text-decoration: cadetblue solid underline;
     color: cadetblue;
+}
+.tabla{
+    display: inline-block;
+    width: auto;
+    text-align: center;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding:3px 5px;
+    border: 1px solid white;
+    background-color: black;
+    font-size: 15px;
+
+}
+.mainmenu:hover{
+    background-color: aqua;
+    color: black;
 }
