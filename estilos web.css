@@ -94,3 +94,7 @@ a{
 li{
     margin: 5px;
 }
+.migas{
+    text-decoration: cadetblue solid underline;
+    color: cadetblue;
+}
